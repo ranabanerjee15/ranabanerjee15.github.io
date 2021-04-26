@@ -17,7 +17,7 @@ timezone: Australia/Brisbane
 # --------------------------
 title: Rana's Blog                          # the main title
 
-tagline: "Passionate about Innovation through Technology."  # it will display as the sub-title
+tagline: '"Passionate about Innovation through Technology."'  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Innovation through technology is my passion,
