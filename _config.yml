@@ -17,12 +17,11 @@ timezone: Australia/Brisbane
 # --------------------------
 title: Rana's Blog                          # the main title
 
-tagline: Knowledge is Power   # it will display as the sub-title
+tagline: "Passionate about Innovation through Technology."  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Innovation through technology is my passion,
+  and through this blog I aim to contribute back to the community.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://ranabanerjee15.github.io'
