@@ -40,13 +40,13 @@ tags: [Azure VMs, Domain Controllers, Active Directory]
 - In conclusion the VM does not have any connectivity.
 
 
-![Vm-reboot]({{"/assets/img/sample/Vm-reboot.png" | relative_url }})
+![Vm-reboot]({{"/assets/img/posts/Vm-reboot.png" | relative_url }})
 
 
 ## Resolution Setps
 1. Go to the VM Domain Controller in azure which has lost th connectivity
 2. On the left pane navigate to **'Support + Troubleshooting'** and select **'Serial Console'** (screenshot below for refeence)
-    ![vm-nav]({{"/assets/img/sample/vm-nav.png" | relative_url }})
+    ![vm-nav]({{"/assets/img/posts/vm-nav.png" | relative_url }})
 3. Log in into serial console, type ```cmd``` and enter
 4. Type ```ch -si 1``` and then enter. this will connect to the chanel stream 1
 5. Log in using the domain admin account or local admin account. Be careful while typing your credentials. you will not be able to copy and paste niether backspace will work.
