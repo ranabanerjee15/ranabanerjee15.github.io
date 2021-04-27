@@ -15,7 +15,7 @@ timezone: Australia/Brisbane
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Rana's Blog                          # the main title
+title: Rana's Tech Blog                          # the main title
 
 tagline: '"Passionate about Innovation through Technology."'  # it will display as the sub-title
 
