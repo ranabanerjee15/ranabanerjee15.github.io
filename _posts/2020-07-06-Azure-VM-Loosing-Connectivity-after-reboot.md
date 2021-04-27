@@ -2,7 +2,7 @@
 title: "Azure VM loosing connectivity post reboot"
 date: 2020-11-21 17:45:00 +1000
 categories: [Azure, Azure Compute]
-tags: [Azure VMs]
+tags: [Azure VMs, Domain Controllers, Active Directory]
 ---
 
 ## Environment Details
