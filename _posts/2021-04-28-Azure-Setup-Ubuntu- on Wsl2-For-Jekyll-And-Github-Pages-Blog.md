@@ -1,5 +1,5 @@
 ---
-title: "How to setup WSL2 Ubuntu for Jekyll Blog"
+title: "How to setup Ubuntu on Windows 10 Wsl2 for Jekyll Blog"
 date: 2021-04-28 23:00:00 +1000
 categories: [Linux, Ubuntu]
 tags: [Ubuntu, WSL2, Jekyll, Chirpy]
